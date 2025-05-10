@@ -6,7 +6,7 @@ This project tackles the critical task of **detecting, segmenting, and classifyi
 ➡️ **View the Detailed Project Report [PDF](https://drive.google.com/file/d/10jQ3m5n0LZsOeFTjLLVYp0X_we7kIw_l/view?usp=sharing)** ⬅️
 ---
 
-➡️ **View the Presentation here [Presentation](https://docs.google.com/presentation/d/1HHhFd5_X9-WG9Crv0i_Z5zmyrCdi9gOY/edit?usp=sharing&ouid=112907639384456184334&rtpof=true&sd=true)** ⬅️
+➡️ **View the [Presentation](https://docs.google.com/presentation/d/1HHhFd5_X9-WG9Crv0i_Z5zmyrCdi9gOY/edit?usp=sharing&ouid=112907639384456184334&rtpof=true&sd=true)** ⬅️
 ---
 
 ## 🌟 Key Features
