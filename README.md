@@ -4,6 +4,7 @@
 This project tackles the critical task of **detecting, segmenting, and classifying gliomas (brain tumors)** from multi-modal Magnetic Resonance Imaging (MRI) scans. We leverage state-of-the-art deep learning techniques, primarily focusing on **Vision Transformers (ViTs)** and **hybrid CNN-Transformer architectures**, to achieve accurate and robust results on the challenging BraTS 2020 dataset.
 
 ➡️ **View the Detailed Project Report [PDF](https://drive.google.com/file/d/10jQ3m5n0LZsOeFTjLLVYp0X_we7kIw_l/view?usp=sharing)** ⬅️
+➡️ **View the Presentation here [Presentation](https://docs.google.com/presentation/d/1HHhFd5_X9-WG9Crv0i_Z5zmyrCdi9gOY/edit?usp=sharing&ouid=112907639384456184334&rtpof=true&sd=true)** ⬅️
 
 ---
 
